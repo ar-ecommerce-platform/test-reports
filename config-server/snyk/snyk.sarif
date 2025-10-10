@@ -1,0 +1,60 @@
+{
+  "$schema": "https://docs.oasis-open.org/sarif/sarif/v2.1.0/errata01/os/schemas/sarif-schema-2.1.0.json",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1300.0",
+          "version": "1.1300.0",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 78
+          },
+          "rules": []
+        }
+      },
+      "results": [],
+      "automationDetails": {
+        "id": "Snyk/Container/docker-image|ghcr.io/ar-ecommerce-platform/config-server/2025-10-10T00:42:40.079Z"
+      }
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1300.0",
+          "version": "1.1300.0",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 44
+          },
+          "rules": []
+        }
+      },
+      "results": [],
+      "automationDetails": {
+        "id": "Snyk/Container/ghcr.io/ar-ecommerce-platform/config-server:5c413fc6fbd03556c1de667eb76793ac49545dc4:/app/2025-10-10T00:42:40.079Z"
+      }
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "Snyk Container",
+          "semanticVersion": "1.1300.0",
+          "version": "1.1300.0",
+          "informationUri": "https://docs.snyk.io/",
+          "properties": {
+            "artifactsScanned": 0
+          },
+          "rules": []
+        }
+      },
+      "results": [],
+      "automationDetails": {
+        "id": "Snyk/Container/ghcr.io/ar-ecommerce-platform/config-server:5c413fc6fbd03556c1de667eb76793ac49545dc4:/opt/java/openjdk/lib/2025-10-10T00:42:40.079Z"
+      }
+    }
+  ]
+}
