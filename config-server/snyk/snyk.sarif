@@ -17,7 +17,7 @@
       },
       "results": [],
       "automationDetails": {
-        "id": "Snyk/Container/docker-image|ghcr.io/ar-ecommerce-platform/config-server/2025-10-10T00:42:40.079Z"
+        "id": "Snyk/Container/docker-image|ghcr.io/ar-ecommerce-platform/config-server/2025-10-18T04:24:59.483Z"
       }
     },
     {
@@ -35,7 +35,7 @@
       },
       "results": [],
       "automationDetails": {
-        "id": "Snyk/Container/ghcr.io/ar-ecommerce-platform/config-server:5c413fc6fbd03556c1de667eb76793ac49545dc4:/app/2025-10-10T00:42:40.079Z"
+        "id": "Snyk/Container/ghcr.io/ar-ecommerce-platform/config-server:71be37aa266a66044f76874d89b3ef1c3668f0dd:/app/2025-10-18T04:24:59.483Z"
       }
     },
     {
@@ -53,7 +53,7 @@
       },
       "results": [],
       "automationDetails": {
-        "id": "Snyk/Container/ghcr.io/ar-ecommerce-platform/config-server:5c413fc6fbd03556c1de667eb76793ac49545dc4:/opt/java/openjdk/lib/2025-10-10T00:42:40.079Z"
+        "id": "Snyk/Container/ghcr.io/ar-ecommerce-platform/config-server:71be37aa266a66044f76874d89b3ef1c3668f0dd:/opt/java/openjdk/lib/2025-10-18T04:24:59.483Z"
       }
     }
   ]
